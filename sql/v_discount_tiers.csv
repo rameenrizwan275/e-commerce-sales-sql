@@ -1,0 +1,5 @@
+"discount_tier","orders","avg_quantity","avg_order_revenue","revenue_before_discount","revenue_after_discount","discount_given"
+"1. None",19,3.68,815.90,15502.12,15502.12,0.00
+"3. Medium (11-20%)",407,4.03,1030.79,496589.24,419532.15,77057.09
+"4. High (over 20%)",651,4.01,881.60,794235.19,573923.07,220312.12
+"2. Low (up to 10%)",384,4.02,1150.51,466011.04,441794.21,24216.83

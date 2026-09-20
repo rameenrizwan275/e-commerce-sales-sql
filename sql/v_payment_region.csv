@@ -1,0 +1,13 @@
+"region","payment_method","orders","pct_of_region_orders","revenue","avg_order_value"
+East,Wallet,72,19.1,64084.75,890.07
+East,Card,171,45.4,169980.68,994.04
+East,COD,134,35.5,122637.13,915.20
+North,Card,179,46.3,189634.89,1059.41
+North,COD,145,37.5,142066.47,979.77
+North,Wallet,63,16.3,50407.00,800.11
+South,COD,126,36.4,128213.25,1017.57
+South,Card,144,41.6,150416.80,1044.56
+South,Wallet,76,22.0,72741.34,957.12
+West,Wallet,60,17.1,65397.41,1089.96
+West,Card,165,47.0,176666.43,1070.71
+West,COD,126,35.9,118505.40,940.52
