@@ -5,7 +5,7 @@ SQL analysis and Tableau dashboard of 4 years of synthetic e-commerce orders.
 
 An end-to-end analysis of 1,461 synthetic e-commerce orders (2022-2025): data quality checks and cleaning in PostgreSQL, analytical SQL views, and an interactive Tableau dashboard.
 
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard/E-commerce Dashboard Screenshot.png)
 
 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/e-commerce_17899039055670/E-commerceDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
