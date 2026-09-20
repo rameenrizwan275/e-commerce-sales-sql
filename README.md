@@ -7,7 +7,7 @@ An end-to-end analysis of 1,461 synthetic e-commerce orders (2022-2025): data qu
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
-**[View the interactive dashboard on Tableau Public]([YOUR_TABLEAU_LINK](https://public.tableau.com/views/e-commerce_17899039055670/E-commerceDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/e-commerce_17899039055670/E-commerceDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Business questions
 
